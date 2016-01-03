@@ -1,0 +1,2 @@
+Add code to automatically parse/correct date field (current NASA RSS contents causes an exception)
+Analyse image size to work out best method for display (center, fill, stretch) - also consider aspect ratio
