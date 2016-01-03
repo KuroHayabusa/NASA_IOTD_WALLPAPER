@@ -40,16 +40,6 @@ namespace NASA_IOTD_WALLPAPER_TEST
 
         private void SetWallpaper(string wallpaperFilePath)
         {
-
-            if (Path.GetExtension(wallpaperFilePath) != ".bmp" )
-            {
-                //if our source image is not a bitmap, load our file, convert it, then save it out
-                Image wallpaper = Image.FromFile(wallpaperFilePath);
-                Bitmap wallpaperBMP = new Bitmap(wallpaper);
-                //save the file, note that the input variable is converted here to have a .bmp extension
-                wallpaperBMP.Save(Path.ChangeExtension(wallpaperFilePath, ".bmp"));
-            }
-
             SystemParametersInfo(SPI_SETDESKWALLPAPER, 0, wallpaperFilePath,
                 SPIF_UPDATEINIFILE | SPIF_SENDWININICHANGE);
         }
