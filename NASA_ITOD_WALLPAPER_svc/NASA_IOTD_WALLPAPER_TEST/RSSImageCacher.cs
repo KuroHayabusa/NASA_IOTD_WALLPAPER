@@ -7,6 +7,7 @@ using System.Net;
 using System.IO;
 using System.ServiceModel.Syndication;
 using System.Xml;
+using System.Drawing;
 
 
 
@@ -15,75 +16,92 @@ namespace NASA_IOTD_WALLPAPER_TEST
     class RSSImageCacher
     {
 
-        public string cacheFolder { get; set; };
+        public string cacheFolder { get; set; }
 
-        public RSSImageCacher()
+
+        public RSSImageCacher( string cacheFolderIn )
+        {
+            cacheFolder = cacheFolderIn;
+        }
+
+        ~RSSImageCacher()
         {
 
         }
 
-        public ~RSSImageCacher()
+        //function to get only the first item in an IEnum
+        static T First<T>(IEnumerable<T> items)
         {
-
+            using (IEnumerator<T> iter = items.GetEnumerator())
+            {
+                iter.MoveNext();
+                return iter.Current;
+            }
         }
 
-        public void GetRSSFeed(string URL)
+        public string CacheFirstImageFromNASARSS(string URL)
         {
+            string result = "";
             XmlReader rssReader = XmlReader.Create(URL);
 
             SyndicationFeed feed = SyndicationFeed.Load(rssReader);
 
             //read item 0 (should be the most recent item)
-            foreach (SyndicationItem item in feed.Items)
+            SyndicationItem item = First<SyndicationItem>(feed.Items);
+            foreach (SyndicationLink link in item.Links)
             {
-                foreach (SyndicationLink link in item.Links)
+                if (link.RelationshipType == "enclosure")
                 {
-                    if (link.RelationshipType == "enclosure")
-                    {
-                        Uri imageURL = link.GetAbsoluteUri();
-                        CacheImageFromWeb(imageURL);
-                    }
+                    Uri imageURL = link.GetAbsoluteUri();
+                    result = CacheImageFromWeb(imageURL, true);
+                    return result;
                 }
+              
             }
+            return result;
         }
 
-        private void CacheImageFromWeb(Uri imageURL)
+        private string CacheImageFromWeb(Uri imageURL, bool AsBitmap)
         {
             //get the output filename
             string outputFileName = Path.GetFileName(imageURL.AbsolutePath);
             //construct the output filepath
-            string cacheFilePath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData);
-            cacheFilePath = cacheFilePath + "\\" + cacheFolder;
-            if (!Directory.Exists(cacheFilePath))
+            string cacheFolderPath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\" + cacheFolder;  
+           
+            if (!Directory.Exists(cacheFolderPath))
             {
-                Directory.CreateDirectory(cacheFilePath);
+                Directory.CreateDirectory(cacheFolderPath);
             }
 
-            cacheFilePath = cacheFilePath + "\\" + outputFileName;
+            string outputFilePath = cacheFolderPath + "\\" + outputFileName;
 
             //check to see if we already have this file or not
-            if (!File.Exists(cacheFilePath))
+            if (!File.Exists(outputFilePath))
             {
                 WebClient client = new WebClient();
                 //download the file to the specified cache folder
-                client.DownloadFile(imageURL, cacheFilePath);
+                client.DownloadFile(imageURL, outputFilePath);
             }
-        }
 
-        private void SetWallpaper(string wallpaperFilePath)
-        {
-
-            if (Path.GetExtension(wallpaperFilePath) != ".bmp")
+            if (Path.GetExtension(outputFilePath) != ".bmp")
             {
                 //if our source image is not a bitmap, load our file, convert it, then save it out
-                Image wallpaper = Image.FromFile(wallpaperFilePath);
-                Bitmap wallpaperBMP = new Bitmap(wallpaper);
-                //save the file, note that the input variable is converted here to have a .bmp extension
-                wallpaperBMP.Save(Path.ChangeExtension(wallpaperFilePath, ".bmp"));
-            }
+                Image srcImage = Image.FromFile(outputFilePath);
 
-            SystemParametersInfo(SPI_SETDESKWALLPAPER, 0, wallpaperFilePath,
-                SPIF_UPDATEINIFILE | SPIF_SENDWININICHANGE);
-        }
+                Bitmap bmpImage = new Bitmap(srcImage);
+                //save the file, note that the input variable is converted here to have a .bmp extension
+                string bmpFilePath = Path.ChangeExtension(outputFilePath, ".bmp");
+                bmpImage.Save(bmpFilePath);
+
+                srcImage.Dispose();
+                File.Delete(outputFilePath);
+
+                return bmpFilePath;
+            }
+            else
+            {
+                return outputFilePath;
+            }
+        }       
     }
 }
