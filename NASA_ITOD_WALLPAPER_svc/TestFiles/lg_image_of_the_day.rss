@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>The Alps in Winter</title>
+ <link>http://www.nasa.gov/image-feature/the-alps-in-winter</link>
+ <description>European Space Agency (ESA) astronaut and Expedition 46 Flight Engineer Tim Peake (@astro_timpeake) photographed the Alps from orbit on Dec. 27, 2015 and later shared the image with his social media followers, writing, &quot;There may not be much snow in the Alps this winter but they still look stunning from here! #Principia&quot;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/23756761750_088b6f670d_o.jpg" length="2246303" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-alps-in-winter</guid>
+ <pubDate>Wed, 30 Dec 2015 11:55 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Reading the Alphabet From Space</title>
+ <link>http://www.nasa.gov/image-feature/reading-the-alphabet-from-space</link>
+ <description>NASA&#039;s Earth Observatory has tracked down images resembling all 26 letters of the English alphabet using only NASA satellite imagery and astronaut photography. In this image, the letter &#039;Y&#039; is for yardangs, elongated landforms sculpted by erosion and similar to sand dunes, but instead comprised of sandstone or siltstone.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ugab_ast_2000360_lrg.jpg" length="3218333" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/reading-the-alphabet-from-space</guid>
+ <pubDate>Tue, 29 Dec 2015 11:20 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Boulders on a Martian Landslide</title>
+ <link>http://www.nasa.gov/image-feature/boulders-on-a-martian-landslide</link>
+ <description>The striking feature in this image, acquired by the HiRISE camera on NASA&#039;s Mars Reconnaissance Orbiter on March 19, 2014, is a boulder-covered landslide along a canyon wall. Landslides occur when steep slopes fail, sending a mass of soil and rock to flow downhill, leaving behind a scarp at the top of the slope.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/esp_035831_1760.jpg" length="3696141" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/boulders-on-a-martian-landslide</guid>
+ <pubDate>Mon, 28 Dec 2015 11:29 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Christmas Pluto</title>
+ <link>http://www.nasa.gov/image-feature/christmas-pluto</link>
+ <description>Pluto gets into the holiday spirit, decked out in red and green using a pair of Ralph/LEISA instrument scans.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/leisa_christmas_false_color.png" length="1366837" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/christmas-pluto</guid>
+ <pubDate>Wed, 23 Dec 2015 13:57 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Zinnia Flowers Starting to Grow on the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/zinnia-flowers-starting-to-grow-on-the-international-space-station</link>
+ <description>Zinnia flowers are starting to grow in the International Space Station&#039;s Veggie facility as part of the VEG-01 investigation. Veggie provides lighting and nutrient supply for plants in the form of a low-cost growth chamber and planting &quot;pillows” to provide nutrients for the root system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss046e001336.jpg" length="2775368" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/zinnia-flowers-starting-to-grow-on-the-international-space-station</guid>
+ <pubDate>Wed, 23 Dec 2015 11:21 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Astronaut Tim Kopra on Dec. 21 Spacewalk</title>
+ <link>http://www.nasa.gov/image-feature/nasa-astronaut-tim-kopra-on-dec-21-spacewalk</link>
+ <description>Expedition 46 Flight Engineer Tim Kopra on a Dec. 21, 2015 spacewalk, in which Kopra and Expedition 46 Commander Scott Kelly successfully moved the International Space Station&#039;s mobile transporter rail car ahead of Wednesday&#039;s docking of a Russian cargo supply spacecraft.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/23266300064_9f2cd09bec_o.jpg" length="1348667" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-astronaut-tim-kopra-on-dec-21-spacewalk</guid>
+ <pubDate>Tue, 22 Dec 2015 10:22 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Chandra Finds Remarkable Galactic Ribbon Unfurled</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/chandra-finds-remarkable-galactic-ribbon-unfurled.html</link>
+ <description>An extraordinary ribbon of hot gas trailing behind a galaxy like a tail has been discovered using data from NASA’s Chandra X-ray Observatory.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/z8338.jpg" length="5180204" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/chandra-finds-remarkable-galactic-ribbon-unfurled.html</guid>
+ <pubDate>Mon, 21 Dec 2015 12:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Releases New High-Resolution Earthrise Image</title>
+ <link>http://www.nasa.gov/image-feature/goddard/lro-earthrise-2015</link>
+ <description>NASA&#039;s Lunar Reconnaissance Orbiter captured a unique view of Earth from the spacecraft&#039;s vantage point in orbit around the moon.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/earth_and_limb_m1199291564l_color_2stretch_mask_0.jpg" length="1359441" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/lro-earthrise-2015</guid>
+ <pubDate>Fri, 18 Dec 2015 08:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NuSTAR&#039;s View of Galaxy 1068</title>
+ <link>http://www.nasa.gov/image-feature/nustars-view-of-galaxy-1068</link>
+ <description>Galaxy 1068 is shown in visible light and X-rays in this composite image. High-energy X-rays (magenta) captured by NASA&#039;s Nuclear Spectroscopic Telescope Array, or NuSTAR, are overlaid on visible-light images from both NASA&#039;s Hubble Space Telescope and the Sloan Digital Sky Survey.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia20057.jpg" length="305784" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nustars-view-of-galaxy-1068</guid>
+ <pubDate>Thu, 17 Dec 2015 13:18 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 46 Soyuz Approaches Space Station for Docking</title>
+ <link>http://www.nasa.gov/image-feature/expedition-46-soyuz-approaches-space-station-for-docking</link>
+ <description>Russian cosmonaut Yuri Malenchenko manually docked the Soyuz TMA-19M spacecraft on Dec. 15, 2015 to the International Space Station&#039;s Rassvet module after an initial automated attempt was aborted. Flight Engineer Tim Kopra of NASA and Flight Engineer Tim Peake of ESA flanked Malenchenko as he brought the Soyuz to the Rassvet port.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/23682901352_488a786d26_o.jpg" length="1493873" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-46-soyuz-approaches-space-station-for-docking</guid>
+ <pubDate>Wed, 16 Dec 2015 11:25 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 46 Soyuz Launch to the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/expedition-46-soyuz-launch-to-the-international-space-station</link>
+ <description>The Soyuz TMA-19M rocket is launched with Expedition 46 Soyuz Commander Yuri Malenchenko of the Russian Federal Space Agency (Roscosmos), Flight Engineer Tim Kopra of NASA, and Flight Engineer Tim Peake of ESA (European Space Agency), Tuesday, Dec. 15, 2015 at the Baikonur Cosmodrome in Kazakhstan.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nhq201512150014.jpg" length="2070769" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-46-soyuz-launch-to-the-international-space-station</guid>
+ <pubDate>Tue, 15 Dec 2015 07:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 46 Soyuz Rollout</title>
+ <link>http://www.nasa.gov/image-feature/expedition-46-soyuz-rollout</link>
+ <description>In this one minute exposure, a meteor streaks across the sky as the Soyuz TMA-19M spacecraft is rolled out by train to the launch pad at the Baikonur Cosmodrome on Sunday, Dec. 13, 2015 in Kazakhstan. Launch of the Expedition 46 crew to the International Space Station aboard the Soyuz is scheduled for Dec. 15, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/23088705953_d186d56a8e_o.jpg" length="17787826" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-46-soyuz-rollout</guid>
+ <pubDate>Mon, 14 Dec 2015 09:43 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 45 Crew Members Return Home</title>
+ <link>http://www.nasa.gov/image-feature/expedition-45-crew-members-return-home</link>
+ <description>Expedition 46 Commander Scott Kelly of NASA captured this image from aboard the International Space Station, of the Dec. 11, 2015 undocking and departure of the Soyuz TMA-17M carrying home Expedition 45 crew members Kjell Lindgren of NASA, Oleg Kononenko of the Russian Federal Space Agency and Kimiya Yui of JAXA.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/cv8exhyueaajw0__0.jpg" length="129343" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-45-crew-members-return-home</guid>
+ <pubDate>Fri, 11 Dec 2015 09:27 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Phytoplankton Bloom in the North Atlantic</title>
+ <link>http://www.nasa.gov/image-feature/phytoplankton-bloom-in-the-north-atlantic</link>
+ <description>On Sept. 23, 2015, the weather was adequate for the Visible Infrared Imaging Radiometer Suite (VIIRS) on the Suomi NPP satellite to acquire this view of a phytoplankton bloom in the North Atlantic. The image was composed with data from the red, green, and blue bands from VIIRS, in addition to chlorophyll data.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/northwest_vir_2015266_lrg.jpg" length="9270449" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/phytoplankton-bloom-in-the-north-atlantic</guid>
+ <pubDate>Thu, 10 Dec 2015 11:15 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Venus From the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/venus-from-the-international-space-station</link>
+ <description>On Dec. 5, 2015, Japan Aerospace Exploration Agency (JAXA) astronaut Kimiya Yui captured this image from the International Space Station of the planet Venus. Part of the station&#039;s Kibo laboratory is visible at the top of the frame. At the time this photograph was taken, Japan&#039;s Akatsuki spacecraft, a Venus climate orbiter, was nearing the planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss045e166104.jpg" length="4193083" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/venus-from-the-international-space-station</guid>
+ <pubDate>Wed, 09 Dec 2015 11:24 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Armstrong Flight Research Center’s F-15D Eagle Follows OLYMPEX Science Mission</title>
+ <link>http://www.nasa.gov/image-feature/armstrong-flight-research-center-s-f-15d-eagle-follows-olympex-science-mission</link>
+ <description>NASA Armstrong Flight Research Center’s F-15D Eagle #897, flown by pilot Troy Asher with videographer Lori Losey in the back seat, serves as a chase vehicle for NASA&#039;s DC-8 flying laboratory on the Olympic Mountain Experiment (OLYMPEX) science mission, Nov. 10, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ed15-0345-028.jpeg" length="3412822" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/armstrong-flight-research-center-s-f-15d-eagle-follows-olympex-science-mission</guid>
+ <pubDate>Tue, 08 Dec 2015 09:54 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Earth in Full View</title>
+ <link>http://www.nasa.gov/multimedia/imagegallery/image_feature_329.html</link>
+ <description>The Apollo 17 crew caught this breathtaking view of our home planet as they were traveling to the moon on Dec. 7, 1972. It&#039;s the first time astronauts were able to photograph the South polar ice cap. Nearly the entire coastline of Africa is clearly visible, along with the Arabian Peninsula.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/115334main_image_feature_329_ys_full.jpg" length="6511067" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/multimedia/imagegallery/image_feature_329.html</guid>
+ <pubDate>Mon, 07 Dec 2015 10:27 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Launch of Orbital ATK Commercial Resupply Mission to the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/launch-of-orbital-atk-commercial-resupply-mission-to-the-international-space-station</link>
+ <description>Orbital ATK&#039;s Cygnus cargo spacecraft launches aboard United Launch Alliance&#039;s Atlas V rocket on Sunday, Dec. 6, at 4:44:56 p.m. EST from Space Launch Complex 41 at Cape Canaveral Air Force Station in Florida. The mission will deliver experiments, equipment and supplies to the orbiting laboratory and its six-person crew.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/23204388259_2f7e0f3e72_o.jpg" length="3221972" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/launch-of-orbital-atk-commercial-resupply-mission-to-the-international-space-station</guid>
+ <pubDate>Sun, 06 Dec 2015 19:15 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Mountainous Shoreline of Sputnik Planum</title>
+ <link>http://www.nasa.gov/image-feature/the-mountainous-shoreline-of-sputnik-planum</link>
+ <description>In this highest-resolution image from NASA’s New Horizons spacecraft, great blocks of Pluto’s water-ice crust appear jammed together in the informally named al-Idrisi mountains.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nh-mountainousshorline.jpg" length="2945803" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-mountainous-shoreline-of-sputnik-planum</guid>
+ <pubDate>Fri, 04 Dec 2015 11:11 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>ULA Atlas V Rocket With Cygnus Spacecraft at the Launch Pad</title>
+ <link>http://www.nasa.gov/image-feature/ula-atlas-v-rocket-with-cygnus-spacecraft-at-the-launch-pad</link>
+ <description>A United Launch Alliance Atlas V rocket with Orbital ATK&#039;s Cygnus cargo spacecraft aboard stands at the launch pad at Space Launch Complex 41, Cape Canaveral Air Force Station, Florida on Dec. 3, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/av_oa4_n2123201533427am63.jpg" length="5324950" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/ula-atlas-v-rocket-with-cygnus-spacecraft-at-the-launch-pad</guid>
+ <pubDate>Thu, 03 Dec 2015 10:55 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Space Station&#039;s Robotic Arm Set for Arrival of Cygnus Cargo Craft</title>
+ <link>http://www.nasa.gov/image-feature/space-stations-robotic-arm-set-for-arrival-of-cygnus-cargo-craft</link>
+ <description>The International Space Station&#039;s robotic arm, Canadarm2, is visible over Earth in this Nov. 27, 2015 photograph. On Dec. 6, Commander Scott Kelly and Flight Engineer Kjell Lindgren will operate the Canadarm2 from inside the station&#039;s cupola, using it for the rendezvous and grapple of Orbital ATK&#039;s Cygnus commercial cargo craft.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss045e140215.jpg" length="2630636" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/space-stations-robotic-arm-set-for-arrival-of-cygnus-cargo-craft</guid>
+ <pubDate>Wed, 02 Dec 2015 12:35 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Celebrating 20 Years of the Solar and Heliospheric Observatory (SOHO)</title>
+ <link>http://www.nasa.gov/image-feature/celebrating-20-years-of-the-solar-and-heliospheric-observatory-soho</link>
+ <description>After 20 years in space, ESA and NASA’s Solar and Heliospheric Observatory, or SOHO, is still going strong. Originally launched in 1995 to study the sun and its influence out to the very edges of the solar system, SOHO revolutionized this field of science, known as heliophysics, providing the basis for nearly 5,000 scientific papers.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/c2eitnov800.jpg" length="2051331" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/celebrating-20-years-of-the-solar-and-heliospheric-observatory-soho</guid>
+ <pubDate>Tue, 01 Dec 2015 12:04 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Water World</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia18343/water-world</link>
+ <description>Although Enceladus and Saturn&#039;s rings are largely made up of water ice, they show very different characteristics.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia18343-1041.jpg" length="104866" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia18343/water-world</guid>
+ <pubDate>Mon, 30 Nov 2015 10:25 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>A Precocious Black Hole</title>
+ <link>http://www.nasa.gov/image-feature/a-precocious-black-hole</link>
+ <description>In July 2015, researchers announced the discovery of a black hole that grew much more quickly than its host galaxy. The discovery calls into question previous assumptions on development of galaxies. The black hole was discovered using the Hubble Space Telescope, and detected in the Sloan Digital Sky Survey, by ESA&#039;s XMM-Newton and NASA&#039;s Chandra.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/cid947_lg.jpg" length="591059" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/a-precocious-black-hole</guid>
+ <pubDate>Fri, 27 Nov 2015 10:35 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Captures a Galactic Waltz</title>
+ <link>http://www.nasa.gov/image-feature/goddard/hubble-captures-a-galactic-waltz</link>
+ <description>This curious galaxy — only known by the seemingly random jumble of letters and numbers 2MASX J16270254+4328340 — has been captured by the NASA/ESA Hubble Space Telescope dancing the crazed dance of a galactic merger. The galaxy has merged with another galaxy leaving a fine mist, made of millions of stars, spewing from it in long trails.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_friday_11242015.jpg" length="308681" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/hubble-captures-a-galactic-waltz</guid>
+ <pubDate>Wed, 25 Nov 2015 08:08 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Historic Formation Flight of NASA&#039;s WB-57s Over Houston</title>
+ <link>http://www.nasa.gov/image-feature/historic-formation-flight-of-nasas-wb-57s-over-houston</link>
+ <description>NASA&#039;s three WB-57s fly over foggy downtown Houston, Texas during their historic formation flight over the area on Nov. 19, 2015. This photo flight was the first time that all three WB-57s have been aloft simultaneously since the early 1970s, when the U.S. Air Force had an operational squadron of WB-57s.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/22889210589_07b8908c57_o.jpg" length="1309658" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/historic-formation-flight-of-nasas-wb-57s-over-houston</guid>
+ <pubDate>Tue, 24 Nov 2015 11:28 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Springtime in the South Atlantic</title>
+ <link>http://www.nasa.gov/image-feature/springtime-in-the-south-atlantic</link>
+ <description>The springtime phytoplankton communities shown in this image were spotted between the Falkland Islands to the west and South Georgia Island to the east by the Visible Infrared Imaging Radiometer Suite (VIIRS) instrument aboard NASA-NOAA&#039;s Suomi NPP satellite on November 16, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/v2015320174400.southatlantic.unadorned.jpg" length="4839617" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/springtime-in-the-south-atlantic</guid>
+ <pubDate>Mon, 23 Nov 2015 11:40 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Northwest Australia From the Space Station&#039;s EarthKAM</title>
+ <link>http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam</link>
+ <description>This image of the northwest corner of Australia was snapped by a student on Earth after remotely controlling the Sally Ride EarthKAM aboard the International Space Station. The program allows students to request photographs of specific Earth features, which are taken by a special camera mounted on the station when it passes over these features.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ccfid_86349_2015314061422_image.jpg" length="3215116" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam</guid>
+ <pubDate>Fri, 20 Nov 2015 11:31 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Nov. 19, 1969, Apollo 12 Lunar Module Intrepid</title>
+ <link>http://www.nasa.gov/image-feature/nov-19-1969-apollo-12-lunar-module-intrepid</link>
+ <description>The Apollo 12 Lunar Module (LM), in a lunar landing configuration, is photographed in lunar orbit from the Command and Service Modules (CSM) on Nov. 19, 1969. Aboard the LM were astronauts Charles Conrad Jr., commander; and Alan L. Bean, lunar module pilot.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/as12-51-7507.jpg" length="3568407" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nov-19-1969-apollo-12-lunar-module-intrepid</guid>
+ <pubDate>Thu, 19 Nov 2015 08:31 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Cloud Patterns Over the Prince Edward Islands</title>
+ <link>http://www.nasa.gov/image-feature/cloud-patterns-over-the-prince-edward-islands</link>
+ <description>Early November 2015 brought cloudy skies and intriguing patterns over the Prince Edward Islands in the South Indian Ocean. The Moderate Resolution Imaging Spectroradiometer (MODIS) aboard NASA’s Terra satellite captured this scene on November 5.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/image11112015_250m.jpg" length="977176" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/cloud-patterns-over-the-prince-edward-islands</guid>
+ <pubDate>Wed, 18 Nov 2015 10:35 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>A Brighter Moon</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia18345/a-brighter-moon</link>
+ <description>Although Dione (near) and Enceladus (far) are composed of nearly the same materials, Enceladus has a considerably higher reflectivity than Dione.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia18345-1041.jpg" length="237719" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia18345/a-brighter-moon</guid>
+ <pubDate>Tue, 17 Nov 2015 09:53 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Fingerprints of Water on the Sand</title>
+ <link>http://www.nasa.gov/image-feature/fingerprints-of-water-on-the-sand</link>
+ <description>NASA astronaut Kjell Lindgren took this photograph on Nov. 11, 2015 from the International Space Station. Lindgren wrote, &quot;The delicate fingerprints of water imprinted on the sand. The #StoryOfWater.&quot;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss045e106651a.jpg" length="9131677" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/fingerprints-of-water-on-the-sand</guid>
+ <pubDate>Mon, 16 Nov 2015 10:59 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Veiny &#039;Garden City&#039; Site and Surroundings on Mount Sharp, Mars</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia19921/veiny-garden-city-site-and-surroundings-on-mount-sharp-mars</link>
+ <description>This March 27, 2015, view from the Mast Camera (Mastcam) on NASA&#039;s Curiosity Mars rover shows a site with a network of prominent mineral veins below a cap rock ridge on lower Mount Sharp.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia19921-main_blaney1_sol-0938_ml.jpg" length="14738212" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia19921/veiny-garden-city-site-and-surroundings-on-mount-sharp-mars</guid>
+ <pubDate>Fri, 13 Nov 2015 07:32 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Psychedelic Pluto</title>
+ <link>http://www.nasa.gov/image-feature/psychedelic-pluto</link>
+ <description>New Horizons scientists made this false color image of Pluto using a technique called principal component analysis to highlight the many subtle color differences between Pluto&#039;s distinct regions.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/nh-psychedelic-pluto_pca.png" length="3769833" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/psychedelic-pluto</guid>
+ <pubDate>Thu, 12 Nov 2015 11:35 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Scott Kelly on the Second Spacewalk of Expedition 45</title>
+ <link>http://www.nasa.gov/image-feature/scott-kelly-on-the-second-spacewalk-of-expedition-45</link>
+ <description>On Nov. 6, 2015, NASA astronauts Scott Kelly and Kjell Lindgren spent 7 hours and 48 minutes working outside the International Space Station on the 190th spacewalk in support of station assembly and maintenance. The astronauts restored the port truss (P6) ammonia cooling system to its original configuration, the main task for the spacewalk.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss045e094082.jpg" length="1769584" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/scott-kelly-on-the-second-spacewalk-of-expedition-45</guid>
+ <pubDate>Tue, 10 Nov 2015 09:36 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Layers and Fractures in Ophir Chasma, Mars</title>
+ <link>http://www.nasa.gov/image-feature/layers-and-fractures-in-ophir-chasma-mars</link>
+ <description>Ophir Chasma forms the northern portion of the vast Mars canyon system Valles Marineris, and this image, acquired on Aug. 10, 2015, by the High Resolution Imaging Science Experiment (HiRISE) camera on NASA&#039;s Mars Reconnaissance Orbiter, features a small part of its wall and floor.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/esp_042360_1755.jpg" length="4900243" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/layers-and-fractures-in-ophir-chasma-mars</guid>
+ <pubDate>Mon, 09 Nov 2015 12:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Orion Service Module Stacking Assembly Secured For Flight</title>
+ <link>http://www.nasa.gov/image-feature/orion-service-module-stacking-assembly-secured-for-flight</link>
+ <description>The Orion spacecraft service module stacking assembly interface ring and stack holding stand are secured on a special transportation platform and are being loaded into NASA&#039;s Super Guppy aircraft at the Shuttle Landing Facility at Kennedy Space Center. On Nov. 3, the Guppy flew from Kennedy to Glenn Research Center&#039;s Plum Brook Station facility.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/22786154946_393b8cfbcc_o.jpg" length="3607186" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/orion-service-module-stacking-assembly-secured-for-flight</guid>
+ <pubDate>Fri, 06 Nov 2015 10:39 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Flight Testing NASA&#039;s Prandtl-D Research Aircraft</title>
+ <link>http://www.nasa.gov/image-feature/flight-testing-nasas-prandtl-d-research-aircraft</link>
+ <description>NASA&#039;s Armstrong Flight Research Center engineers are working on an increasingly complex aircraft called the Preliminary Research Aerodynamic Design to Lower Drag, or Prandtl-D. The aircraft features a new method for determining the shape of the wing with a twist that could lead to an 11-percent reduction in fuel consumption.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ed15-0193-336_0.jpg" length="3010878" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/flight-testing-nasas-prandtl-d-research-aircraft</guid>
+ <pubDate>Thu, 05 Nov 2015 11:23 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Tropical Cyclone Chapala Over the Gulf of Aden</title>
+ <link>http://www.nasa.gov/image-feature/tropical-cyclone-chapala-over-the-gulf-of-aden</link>
+ <description>Tropical Cyclone Chapala made landfall on mainland Yemen early on November 3, 2015, dumping torrential rains across the arid landscape.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/image11042015_250m.jpg" length="5286945" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/tropical-cyclone-chapala-over-the-gulf-of-aden</guid>
+ <pubDate>Wed, 04 Nov 2015 10:49 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Robotic Eyes to Assist Satellite Repairs in Orbit</title>
+ <link>http://www.nasa.gov/image-feature/robotic-eyes-to-assist-satellite-repairs-in-orbit</link>
+ <description>NASA is developing and demonstrating technologies to service and repair satellites in distant orbits. This photo looks closely at one of the tools that could be used for satellite servicing in the future: the Visual Inspection Poseable Invertebrate Robot (VIPIR), a robotic, articulating borescope equipped with a second motorized, zoom-lens camera.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/vipir_camera_r.jpg" length="1265976" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/robotic-eyes-to-assist-satellite-repairs-in-orbit</guid>
+ <pubDate>Tue, 03 Nov 2015 11:37 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Looking Back: International Space Station at the Start of Expedition 1</title>
+ <link>http://www.nasa.gov/image-feature/looking-back-international-space-station-at-the-start-of-expedition-1</link>
+ <description>On Nov. 2, 2000, the Expedition 1 crew - Commander William M. (Bill) Shepherd of NASA and Flight Engineer Sergei Krikalev and Soyuz Commander Yuri Gidzenko of Roscosmos - arrived at the International Space Station, marking the start of an uninterrupted human presence on the orbiting laboratory.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s97e5007.jpg" length="410015" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/looking-back-international-space-station-at-the-start-of-expedition-1</guid>
+ <pubDate>Mon, 02 Nov 2015 10:33 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Close View of Saturn&#039;s Moon Enceladus From Oct. 28 Flyby</title>
+ <link>http://www.nasa.gov/image-feature/close-view-of-saturns-moon-enceladus-from-oct-28-flyby</link>
+ <description>This unprocessed &quot;raw&quot; image of Saturn&#039;s icy, geologically active moon Enceladus was acquired by NASA&#039;s Cassini spacecraft during its dramatic Oct. 28, 2015 flyby in which the probe passed about 30 miles (49 kilometers) above the moon&#039;s south polar region.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/n00250059a.jpg" length="386110" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/close-view-of-saturns-moon-enceladus-from-oct-28-flyby</guid>
+ <pubDate>Fri, 30 Oct 2015 12:12 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Spacewalk Selfie</title>
+ <link>http://www.nasa.gov/image-feature/spacewalk-selfie</link>
+ <description>Expedition 45 Commander Scott Kelly took this photograph during a spacewalk on Oct. 28, 2015. Sharing the image on social media, Kelly wrote, &quot;#SpaceWalkSelfie Back on the grid! Great first spacewalk yesterday. Now on to the next one next week. #YearInSpace&quot;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss045e082998.jpg" length="1519782" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/spacewalk-selfie</guid>
+ <pubDate>Thu, 29 Oct 2015 11:56 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Colors After the Storms</title>
+ <link>http://www.nasa.gov/image-feature/colors-after-the-storms</link>
+ <description>Damaging heavy rains fell on South Carolina in the southeastern United States at the beginning of October 2015. Much of that water had, by mid-October, flowed into the Atlantic Ocean bringing with it heavy loads of sediment, nutrients, and dissolved organic material. The above VIIRS image shows the runoff as it interacts with ocean currents.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/22470767876_3292f4c8de_o.jpg" length="620460" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/colors-after-the-storms</guid>
+ <pubDate>Wed, 28 Oct 2015 11:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Scott Kelly Prepares For a Spacewalk</title>
+ <link>http://www.nasa.gov/image-feature/scott-kelly-prepares-for-a-spacewalk</link>
+ <description>Expedition 45 Commander Scott Kelly tries on his spacesuit for a fit check inside the U.S. Quest airlock of the International Space Station. Kelly and Flight Engineer Kjell Lindgren will venture outside the station for a pair of spacewalks on Wednesday, Oct. 28 and Friday, Nov. 6.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss045e075291.jpg" length="1675063" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/scott-kelly-prepares-for-a-spacewalk</guid>
+ <pubDate>Tue, 27 Oct 2015 09:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>A Tale of Two Hemispheres</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia18340/a-tale-of-two-hemispheres</link>
+ <description>Enceladus is a world divided. To the north, the terrain is covered in impact craters, much like other icy moons.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia18340-1041.jpg" length="347186" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia18340/a-tale-of-two-hemispheres</guid>
+ <pubDate>Mon, 26 Oct 2015 10:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>A Hubble View of Starburst Galaxy Messier 94</title>
+ <link>http://www.nasa.gov/image-feature/goddard/a-hubble-view-of-starburst-galaxy-messier-94</link>
+ <description>This image shows the galaxy Messier 94, which lies in the small northern constellation of the Hunting Dogs, about 16 million light-years away.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_friday_102315.jpg" length="549220" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/a-hubble-view-of-starburst-galaxy-messier-94</guid>
+ <pubDate>Fri, 23 Oct 2015 09:37 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA&#039;s Space Launch System Design &#039;Right on Track&#039; for Journey to Mars</title>
+ <link>http://www.nasa.gov/exploration/systems/sls/artist-concept-of-the-sls-block-1-configuration.html</link>
+ <description>For the first time in almost 40 years, a NASA human-rated rocket has completed all steps needed to clear a critical design review (CDR). The agency’s Space Launch System (SLS) is the first vehicle designed to meet the challenges of the journey to Mars and the first exploration class rocket since the Saturn V.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/sls-70mt-dac3-orange-night-prelaunch-uhr2.jpg" length="2592134" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/exploration/systems/sls/artist-concept-of-the-sls-block-1-configuration.html</guid>
+ <pubDate>Thu, 22 Oct 2015 11:50 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>New Perspective on a Galaxy Cluster</title>
+ <link>http://www.nasa.gov/image-feature/new-perspective-on-a-galaxy-cluster</link>
+ <description>The galaxy cluster MS 0735.6+7421 is home to one of the most powerful eruptions ever observed. X-rays detected by NASA&#039;s Chandra X-Ray Observatory (blue) show the hot gas that comprises much of the mass of this enormous object. This image is part of a collection of new images released from the Chandra archive to celebrate American Archive Month.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/archives_ms0735.png" length="1371578" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/new-perspective-on-a-galaxy-cluster</guid>
+ <pubDate>Wed, 21 Oct 2015 13:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>&#039;Pluto Time&#039; Mosaic</title>
+ <link>http://www.nasa.gov/image-feature/pluto-time-mosaic</link>
+ <description>NASA is unveiling mosaics of Pluto and its largest moon Charon, representing the global response to its popular “#PlutoTime” social media campaign. A photo of Clyde Tombaugh, the American who discovered Pluto in 1930, is embedded in this mosaic of hundreds of images shared during the campaign.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pt_mosaic_tombaugh_location.jpg" length="736518" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/pluto-time-mosaic</guid>
+ <pubDate>Tue, 20 Oct 2015 11:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Earth Art From Australia</title>
+ <link>http://www.nasa.gov/image-feature/earth-art-from-australia</link>
+ <description>On Oct. 12-13, 2015, NASA astronaut Scott Kelly shared a series of seventeen photographs taken from the International Space Station during a flyover of Australia. This first photo of the series was shared on Twitter with the caption, &quot;#EarthArt in one pass over the #Australian continent. Picture 1 of 17. #YearInSpace&quot;.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/21600321693_3f186a57c2_o.jpg" length="788112" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/earth-art-from-australia</guid>
+ <pubDate>Mon, 19 Oct 2015 10:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Scott Kelly Becomes U.S. Astronaut to Spend the Most Time in Space</title>
+ <link>http://www.nasa.gov/image-feature/scott-kelly-becomes-us-astronaut-to-spend-the-most-time-in-space</link>
+ <description>Just before the 15th anniversary of continuous human presence on the International Space Station on Nov. 2, 2015, U.S. astronaut and commander of the current Expedition 45 crew, Scott Kelly, is breaking spaceflight records. On Friday, Oct. 16, Kelly begins his 383rd day living in space, surpassing U.S. astronaut Mike Fincke’s record.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/19127165723_8017c95968_o.jpg" length="1470068" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/scott-kelly-becomes-us-astronaut-to-spend-the-most-time-in-space</guid>
+ <pubDate>Fri, 16 Oct 2015 10:51 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Oct. 15, 1997, Launch of Cassini Spacecraft to Saturn</title>
+ <link>http://www.nasa.gov/image-feature/oct-15-1997-launch-of-cassini-to-saturn</link>
+ <description>On Oct. 15 1997, a seven-year journey to the ringed planet Saturn began with the liftoff of a Titan IVB/Centaur carrying the Cassini orbiter and its attached Huygens probe. This spectacular streak shot was taken from Hangar AF on Cape Canaveral Air Force Station, with a solid rocket booster retrieval ship in the foreground.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/4857944569_df2f68d079_o_0.jpg" length="649722" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/oct-15-1997-launch-of-cassini-to-saturn</guid>
+ <pubDate>Thu, 15 Oct 2015 12:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Coronal Hole Front and Center</title>
+ <link>http://www.nasa.gov/image-feature/goddard/coronal-hole-front-and-center</link>
+ <description>The dark area across the top of the sun in this image is a coronal hole, a region on the sun where the magnetic field is open to interplanetary space.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/coronalhole2.jpg" length="6227931" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/coronal-hole-front-and-center</guid>
+ <pubDate>Wed, 14 Oct 2015 10:50 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Worlds Apart</title>
+ <link>http://www.nasa.gov/image-feature/jpl/pia18339/cassini/worlds-apart</link>
+ <description>Although Mimas and Pandora, shown here, both orbit Saturn, they are very different moons.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia18339-1041.jpg" length="102870" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/jpl/pia18339/cassini/worlds-apart</guid>
+ <pubDate>Tue, 13 Oct 2015 10:22 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Morning Aurora From the Space Station</title>
+ <link>http://www.nasa.gov/image-feature/morning-aurora-from-the-space-station</link>
+ <description>NASA astronaut Scott Kelly captured this photograph from the International Space Station on Oct. 7, 2015. Sharing with his social media followers, Kelly wrote, &quot;The daily morning dose of #aurora to help wake you up. #GoodMorning from @Space_Station! #YearInSpace&quot;</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss045e048728.jpg" length="2146311" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/morning-aurora-from-the-space-station</guid>
+ <pubDate>Fri, 09 Oct 2015 09:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Pluto&#039;s Blue Sky</title>
+ <link>http://www.nasa.gov/image-feature/plutos-blue-sky</link>
+ <description>Pluto’s haze layer shows its blue color in this picture taken by the New Horizons Ralph/Multispectral Visible Imaging Camera (MVIC). The high-altitude haze is thought to be similar in nature to that seen at Saturn’s moon Titan. This image was generated by software that combines information from blue, red and near-infrared images.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/blue_skies_on_pluto-final-2.png" length="409721" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/plutos-blue-sky</guid>
+ <pubDate>Thu, 08 Oct 2015 12:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>All Along the Fractures</title>
+ <link>http://www.nasa.gov/image-feature/all-along-the-fractures</link>
+ <description>The High Resolution Imaging Science Experiment (HiRISE) camera aboard NASA&#039;s Mars Reconnaissance Orbiter often takes images of Martian sand dunes to study the mobile soils. These images provide information about erosion and movement of surface material, about wind and weather patterns, even about the soil grains and grain sizes.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/esp_042223_1890.jpg" length="4898250" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/all-along-the-fractures</guid>
+ <pubDate>Wed, 07 Oct 2015 10:51 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Completes Successful Heat Shield Testing for Future Mars Exploration Vehicles</title>
+ <link>http://www.nasa.gov/image-feature/nasa-completes-successful-heat-shield-testing-for-future-mars-exploration-vehicles</link>
+ <description>As NASA missions to Mars progress with science and complex human exploration missions, spacecraft will require larger heat shields to protect against the extreme heat of entering a planet&#039;s atmosphere and decelerating at a safe altitude in the thin Martian atmosphere.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/adept.full_ajd15-i301-0481.jpg" length="2064713" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-completes-successful-heat-shield-testing-for-future-mars-exploration-vehicles</guid>
+ <pubDate>Tue, 06 Oct 2015 10:35 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Oct. 5, 1984, Launch of History-Making STS-41G Mission</title>
+ <link>http://www.nasa.gov/image-feature/oct-5-1984-launch-of-history-making-sts-41g-mission</link>
+ <description>The Space Shuttle Challenger launches from Florida at dawn. On this mission, Kathryn Sullivan became the first U.S. woman to perform a spacewalk and Marc Garneau became the first Canadian in space. The crew of seven was the largest to fly on a spacecraft at that time, and STS-41G was the first flight to include two female astronauts.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/41g-90139.jpg" length="5451561" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/oct-5-1984-launch-of-history-making-sts-41g-mission</guid>
+ <pubDate>Mon, 05 Oct 2015 10:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>
