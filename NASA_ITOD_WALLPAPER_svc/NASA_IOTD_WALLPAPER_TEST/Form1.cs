@@ -48,7 +48,7 @@ namespace NASA_IOTD_WALLPAPER_TEST
         {
             RSSImageCacher cacher = new RSSImageCacher("NASA_IOTD");
 
-            string filepath = cacher.CacheFirstImageFromNASARSS(TEST_URL);
+            string filepath = cacher.CacheFirstImageFromNASARSS(NASA_RSS_URL);
             if (filepath.Length != 0)
             {
                 SetWallpaper(filepath);

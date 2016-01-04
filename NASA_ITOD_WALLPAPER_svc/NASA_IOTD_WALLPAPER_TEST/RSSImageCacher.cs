@@ -42,7 +42,7 @@ namespace NASA_IOTD_WALLPAPER_TEST
         public string CacheFirstImageFromNASARSS(string URL)
         {
             string result = "";
-            XmlReader rssReader = XmlReader.Create(URL);
+            XmlReader rssReader = new CustomXmlReader(URL);
 
             SyndicationFeed feed = SyndicationFeed.Load(rssReader);
 
