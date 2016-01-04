@@ -1,2 +1,3 @@
-Add code to automatically parse/correct date field (current NASA RSS contents causes an exception)
+Add code to automatically parse/correct date field (current NASA RSS contents causes an exception) - https://support.microsoft.com/en-us/kb/2020488
 Analyse image size to work out best method for display (center, fill, stretch) - also consider aspect ratio
+
