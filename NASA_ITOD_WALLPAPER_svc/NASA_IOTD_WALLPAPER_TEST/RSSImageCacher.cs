@@ -39,7 +39,7 @@ namespace NASA_IOTD_WALLPAPER_TEST
             }
         }
 
-        public string CacheFirstImageFromNASARSS(string URL)
+        public string CacheFirstImageFromRSS(string URL)
         {
             string result = "";
             XmlReader rssReader = new CustomXmlReader(URL);
