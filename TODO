@@ -1,3 +1,3 @@
 Analyse image size to work out best method for display (center, fill, stretch) - also consider aspect ratio
-http://blogs.msdn.com/b/tiles_and_toasts/archive/2015/07/09/quickstart-sending-a-local-toast-notification-and-handling-activations-from-it-windows-10.aspx
+Add toast notifications, to display info of new wallpaper - http://blogs.msdn.com/b/tiles_and_toasts/archive/2015/07/09/quickstart-sending-a-local-toast-notification-and-handling-activations-from-it-windows-10.aspx
 
