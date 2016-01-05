@@ -1,3 +1,3 @@
-Add code to automatically parse/correct date field (current NASA RSS contents causes an exception) - https://support.microsoft.com/en-us/kb/2020488
 Analyse image size to work out best method for display (center, fill, stretch) - also consider aspect ratio
+http://blogs.msdn.com/b/tiles_and_toasts/archive/2015/07/09/quickstart-sending-a-local-toast-notification-and-handling-activations-from-it-windows-10.aspx
 
