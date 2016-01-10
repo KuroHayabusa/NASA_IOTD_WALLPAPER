@@ -19,6 +19,10 @@ namespace NASA_IOTD_WALLPAPER_TEST
         {
 
         }
+        public bool CheckConnection(Uri uri)
+        {
+            return CheckConnection(uri.AbsolutePath);
+        }
 
         public bool CheckConnection(String URL)
         {
