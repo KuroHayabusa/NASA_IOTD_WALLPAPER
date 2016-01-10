@@ -41,28 +41,34 @@ namespace NASA_IOTD_WALLPAPER_TEST
 
         public string CacheFirstImageFromRSS(string URL)
         {
+            HttpUtils httpCheck = new HttpUtils();
+
             string result = "";
-            XmlReader rssReader = new CustomXmlReader(URL);
-
-            SyndicationFeed feed = SyndicationFeed.Load(rssReader);
-
-            //read item 0 (should be the most recent item)
-            SyndicationItem item = First<SyndicationItem>(feed.Items);
-            foreach (SyndicationLink link in item.Links)
+            if (httpCheck.CheckConnection(URL) == true)
             {
-                if (link.RelationshipType == "enclosure")
+                XmlReader rssReader = new CustomXmlReader(URL);
+
+                SyndicationFeed feed = SyndicationFeed.Load(rssReader);
+
+                //read item 0 (should be the most recent item)
+                SyndicationItem item = First<SyndicationItem>(feed.Items);
+                foreach (SyndicationLink link in item.Links)
                 {
-                    Uri imageURL = link.GetAbsoluteUri();
-                    result = CacheImageFromWeb(imageURL, true);
-                    return result;
+                    if (link.RelationshipType == "enclosure")
+                    {
+                        Uri imageURL = link.GetAbsoluteUri();
+                        result = CacheImageFromWeb(imageURL, true);
+                        return result;
+                    }
+
                 }
-              
             }
             return result;
         }
 
         private string CacheImageFromWeb(Uri imageURL, bool AsBitmap)
         {
+
             //get the output filename
             string outputFileName = Path.GetFileName(imageURL.AbsolutePath);
             //construct the output filepath
